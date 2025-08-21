@@ -47,13 +47,13 @@
 ##  Get In Touch
 
 - **GitHub:** [@muammaralfa](https://github.com/muammaralfa)  
-- **Email:** (optional or professional email, jika ingin ditampilkan)  
-- **LinkedIn / Portfolio:** (tambahkan jika ada)
+- **Email:** [alfabaim2003@gmail.com](alfabaim2003@gmail.com) 
+- **LinkedIn:** [muammar ibrahim alfarizi](https://www.linkedin.com/in/muammar-ibrahim-alfarizi-4092522a2/)
 
 Lihat roadmap saya di `/ROADMAP.md` untuk rencana jangka panjang.
 
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by Muammar Alfa</sub>
+  <sub>Thankyou</sub>
 </div>
