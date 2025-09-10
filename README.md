@@ -4,56 +4,42 @@
 
 ---
 
-##  Featured Projects
-
-| Project              | Description                                      | Key Highlights                                  |
-|----------------------|--------------------------------------------------|--------------------------------------------------|
-| **elasticsearch-python** | Integration sederhana ElasticSearch dengan Python | • Full-text search setup<br>• CRUD index document |
-| **postgresql-python**    | Interaksi dengan PostgreSQL via Python           | • Basic SQL operations<br>• Connection pooling      |
-| **kafka-python**         | Kafka consumer/producer menggunakan `kafka-python` | • Real-time message streaming<br>• Topic handling |
-| **rabbit-python**        | RabbitMQ handling via `pika`                    | • Message queuing <br>• Producer & consumer setup |
-| **s3-python**            | Integrasi S3 menggunakan `s3fs`                 | • Read/write bucket file <br>• Bucket listing     |
-| **beanstalk-python**     | Queue system menggunakan Beanstalk               | • Enqueue/dequeue ticket flow <br>• Basic queue mechanics |
+**Push something into Git is kinda asdahskjdbaskdbaskd—so here’s mine; you know I’m asdhasjdasd (I am just a brocoly).**
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack (Data Engineering Focus)
 
-- **Programming:** Python  
-- **Databases & Storage:** PostgreSQL, AWS S3  
-- **Messaging / Queue:** Kafka, RabbitMQ, Beanstalkd  
-- **Search Engine:** Elasticsearch  
-- **Libraries / Tools:** `kafka-python`, `pika`, `s3fs`, `psycopg2` / `sqlalchemy`
-
----
-
-##  What I’m Learning
-
-- Orkestrasi dengan Apache Airflow  
-- Infrastruktur sebagai kode (IaC): Terraform, Docker, Kubernetes  
-- Data Warehouse: Snowflake, BigQuery, Redshift  
-- Streaming real-time dengan Apache Flink
+| Data Engineering | Backend |
+|------------------|---------|
+| ![Python Logo](https://www.python.org/static/community_logos/python-logo.png) | ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) |
+| **Python (Pandas, PyArrow, PySpark)** | **Node.js** |
+| ![Kafka Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg) | ![PostgreSQL Logo](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg) |
+| **Kafka, RabbitMQ, Beanstalk** | **PostgreSQL** |
+| ![AWS S3 Logo](https://upload.wikimedia.org/wikipedia/commons/5/5c/Amazon_S3_Logo.svg) | ![Docker Logo](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png) |
+| **AWS S3** | **Docker** |
 
 ---
 
-##  How to Dive In
+## 📂 Highlighted Projects
 
-1. Browse individual project repositories.  
-2. Check project READMEs for setup instructions, usage examples, and sample pipelines.  
-3. Feel free to clone, contribute, or raise an issue—I’m always open to feedback and collaboration!
-
----
-
-##  Get In Touch
-
-- **GitHub:** [@muammaralfa](https://github.com/muammaralfa)  
-- **Email:** [alfabaim2003@gmail.com](alfabaim2003@gmail.com) 
-- **LinkedIn:** [muammar ibrahim alfarizi](https://www.linkedin.com/in/muammar-ibrahim-alfarizi-4092522a2/)
-
-Lihat roadmap saya di `/ROADMAP.md` untuk rencana jangka panjang.
+- **elasticsearch-python** – Integration with Elasticsearch using Python  
+- **postgresql-python** – PostgreSQL usage examples in Python  
+- **kafka-python** – Data streaming with Apache Kafka  
+- **rabbit-python** – Queue handling with RabbitMQ (Pika)  
+- **s3-python** – Accessing AWS S3 via `s3fs` in Python  
+- **beanstalk-python** – Queue/ticketing system using Beanstalk  
 
 ---
 
-<div align="center">
-  <sub>Thankyou</sub>
-</div>
+## 🌱 Currently Exploring
+- Advanced **Apache Spark** for large-scale data processing  
+- **Cloud-based Data Engineering** workflows (AWS / GCP)  
+- Building **ETL pipelines** with modern tools  
+
+---
+
+## 📫 Connect with Me
+- 💻 **GitHub:** [@muammaralfa](https://github.com/muammaralfa)
+- 🔗 **LinkedIn:** [muammar ibrahim alfarizi](https://www.linkedin.com/in/muammar-ibrahim-alfarizi-4092522a2/)
+- 📧 **Email:** [alfabaim2003@gmail.com](alfabaim2003@gmail.com) 
