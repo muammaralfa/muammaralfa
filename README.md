@@ -1,11 +1,6 @@
 # Hi there, Brocodely's here 👋
 
 **Data Engineer enthusiast** exploring the power of Python and distributed systems. Passionate about building reliable data pipelines, experimenting with queue/message brokers, search engines, and scalable storage.
-
----
-
-**Push something into Git is kinda asdahskjdbaskdbaskd—so here’s mine; you know I’m asdhasjdasd (I am just a brocoly).**
-
 ---
 
 ## 📂 Highlighted Projects
