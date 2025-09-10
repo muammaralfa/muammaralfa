@@ -8,19 +8,6 @@
 
 ---
 
-## 🛠️ Tech Stack (Data Engineering Focus)
-
-| Data Engineering | Backend |
-|------------------|---------|
-| ![Python Logo](https://www.python.org/static/community_logos/python-logo.png) | ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) |
-| **Python (Pandas, PyArrow, PySpark)** | **Node.js** |
-| ![Kafka Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg) | ![PostgreSQL Logo](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg) |
-| **Kafka, RabbitMQ, Beanstalk** | **PostgreSQL** |
-| ![AWS S3 Logo](https://upload.wikimedia.org/wikipedia/commons/5/5c/Amazon_S3_Logo.svg) | ![Docker Logo](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png) |
-| **AWS S3** | **Docker** |
-
----
-
 ## 📂 Highlighted Projects
 
 - **elasticsearch-python** – Integration with Elasticsearch using Python  
